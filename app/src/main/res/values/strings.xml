@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">displayMetricsApp</string>
+    <string name="textV">Text value</string>
+</resources>
